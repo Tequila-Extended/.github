@@ -1,4 +1,4 @@
-![tequilaOS banner](https://raw.githubusercontent.com/Tequila-Extended/Tequila-Extended/main/banner.png)
+![tequilaOS banner](https://raw.githubusercontent.com/Tequila-Extended/Tequila-Extended/blob/main/banner.png)
 
 Welcome to Tequila-Extended! 
 
